@@ -62,7 +62,7 @@ This repo is a collection of Java programming assignments from when I was taking
 
 ## Chapter 13
 
-- **[13-12-0](assignments/Ch13/13-12-0/)** - Separates entered integers into odd and even ArrayLists (originally saved as `13/12-0`)
+- **[13-12-0](assignments/Ch13/13-12-0/)** - Separates entered integers into odd and even ArrayLists
 - **[13-0](assignments/Ch13/13-0/)** - Uses recursion to sum integers greater than two
 - **[13-1](assignments/Ch13/13-1/)** - Uses a recursive Euclidean algorithm to calculate the greatest common divisor
 
