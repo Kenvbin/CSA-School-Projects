@@ -1,0 +1,10 @@
+*.class
+bin/
+build/
+out/
+target/
+.gradle/
+.DS_Store
+__MACOSX/
+._*
+.vscode/
